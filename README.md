@@ -21,7 +21,6 @@ Konum: Türkiye 🇹🇷
 Motto: "Her gün bir adım daha ileri!"
 ```
 
-- 🎓 Bilgisayar Mühendisliği'nde eğitimime devam ediyorum
 - 🤟 Bitirme projem **SignBridge** ile işitme engelli bireyler için iletişim köprüsü kuruyorum
 - 🤖 Derin öğrenme, bilgisayarlı görü ve mobil geliştirmeye ilgi duyuyorum
 - ⚡ Eğlenceli gerçek: Teknolojiyi insanların hayatını kolaylaştırmak için kullanmayı seviyorum!
