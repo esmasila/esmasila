@@ -2,10 +2,13 @@
   
 # 👩‍💻 Merhaba, Ben Esma Sıla! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi+%F0%9F%8E%93;Yapay+Zeka+%26+Mobil+Geli%C5%9Ftirici+%F0%9F%A4%96;Her+G%C3%BCn+Bir+Ad%C4%B1m+Daha+%C4%B0leri+%F0%9F%9A%80)](https://git.io/typing-svg)
+[
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Bilgisayar+M%C3%BChendisi+%F0%9F%8E%93;Yapay+Zeka+%26+Mobil+Geli%C5%9Ftirici+%F0%9F%A4%96;Her+G%C3%BCn+Bir+Ad%C4%B1m+Daha+%C4%B0leri+%F0%9F%9A%80)
+
+](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" width="500">
-
 </div>
 
 ---
