@@ -14,7 +14,7 @@
 
 ```yaml
 Ad: Esma Sıla ŞAHİNCİ
-Rol: Bilgisayar Mühendisliği Öğrencisi & Geliştirici
+Rol: Bilgisayar Mühendisi
 Konum: Türkiye 🇹🇷
 Üniversite: Nevşehir Hacı Bektaş Veli Üniversitesi
 İlgi Alanları: Yapay Zeka, Bilgisayarlı Görü, Mobil Uygulama, Erişilebilirlik
